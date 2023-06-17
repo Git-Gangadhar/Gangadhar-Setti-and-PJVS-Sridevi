@@ -1,4 +1,4 @@
-# frt-project
+# future ready talent-project
 project prepared for future ready talent
 # ✨Health and fitness management system ✨
 
