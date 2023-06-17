@@ -8,6 +8,11 @@ The Health and Fitness Management System is a web-based application developed fo
 
 - **Project link** - https://wonderful-sea-0c430d500.3.azurestaticapps.net/
 - **Project demo video link** - https://youtu.be/QKsEfi_7vkY
+
+# Project developed by
+- Gangadhar Setti - https://github.com/ganngadhar
+- PJVS Sridevi -   https://github.com/Jaya2308
+
 ## Azure Technologies used-
 
 - Azure Healthbot
@@ -56,3 +61,4 @@ The Health and Fitness Management System is built using the following technologi
 - HTML
 - CSS
 - JavaScript
+
